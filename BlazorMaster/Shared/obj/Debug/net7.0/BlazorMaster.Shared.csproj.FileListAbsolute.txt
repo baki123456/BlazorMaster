@@ -1,0 +1,12 @@
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\bin\Debug\net7.0\BlazorMaster.Shared.deps.json
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\bin\Debug\net7.0\BlazorMaster.Shared.dll
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\bin\Debug\net7.0\BlazorMaster.Shared.pdb
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.csproj.AssemblyReference.cache
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.AssemblyInfoInputs.cache
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.AssemblyInfo.cs
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.csproj.CoreCompileInputs.cache
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.dll
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\refint\BlazorMaster.Shared.dll
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\BlazorMaster.Shared.pdb
+D:\proyectos andre\BlazorMaster\BlazorMaster\Shared\obj\Debug\net7.0\ref\BlazorMaster.Shared.dll
